@@ -55,7 +55,7 @@ This project leverages machine learning to predict the prices of second-hand car
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/dev28616/second-hand-car-price-prediction.git
+   git clone https://github.com/Muskaanng/second-hand-car-price-prediction.git
    ```
 
 2. **Run the Notebook**:
